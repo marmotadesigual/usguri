@@ -6,14 +6,32 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "b311cfc1-7d8b-31ac-b259-8358191eeb0a",
+    "name": "DK_boli",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ca9505b1-f764-3ac6-bad5-1e20ef61ae68",
     "name": "VEM_Tranquilo",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "80ac2988-fb7f-3c72-aa6e-564caf3dedbf",
+    "name": "Fabruxo10",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "79ab01a3-4bd5-3685-a7ee-c29a0419e67f",
     "name": "hadhodrim",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a981cffc-4c12-3c89-816b-464a7340f5ae",
+    "name": "vinicius09005",
     "level": 4,
     "bypassesPlayerLimit": false
   },
